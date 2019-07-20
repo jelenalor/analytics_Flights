@@ -12,3 +12,20 @@ Analyse Flight prices and more
 
 
 <br>
+
+**1) At what time most flights depart and arrive?**
+
+![Capture2](https://user-images.githubusercontent.com/31029142/61585110-4bc5c200-ab22-11e9-95ae-dfdcdd6f42b0.PNG)
+
+
+<br>
+
+**2) Which planes each of the airlines use for NYC - London flights?**
+
+![Capture](https://user-images.githubusercontent.com/31029142/61585112-4e281c00-ab22-11e9-81bb-e67c4cbb9e09.PNG)
+
+<br>
+
+**3) If you buy a flight operated by Finnair, is it cheaper to buy directly from Finnair or other airline companies?**
+
+![Capture4](https://user-images.githubusercontent.com/31029142/61585113-4ff1df80-ab22-11e9-97bd-78d1bc8d371b.PNG)
