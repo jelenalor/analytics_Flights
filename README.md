@@ -10,6 +10,10 @@ Analyse Flight prices and more
 
 **Author - Jelena Lor**
 
+Dataset was scraped by myself from Expedia <br>
+
+For the code to scrap the dataset please see: <br>
+https://github.com/jelenalor/scrap_FlightInfo
 
 <br>
 
