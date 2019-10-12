@@ -26,7 +26,7 @@ https://github.com/jelenalor/scrap_FlightInfo
 
 **2) Which planes each of the airlines use for NYC - London flights?**
 
-![Capture](https://user-images.githubusercontent.com/31029142/61585112-4e281c00-ab22-11e9-81bb-e67c4cbb9e09.PNG)
+![Capture](https://user-images.githubusercontent.com/31029142/66694017-38d41100-ec7d-11e9-9322-ca4c414c1b31.PNG)
 
 <br>
 
